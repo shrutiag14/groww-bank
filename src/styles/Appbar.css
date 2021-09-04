@@ -1,0 +1,12 @@
+.appbar {
+    background-color: mintcream;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 0.5rem 2rem;
+    box-shadow: 10px 10px 8px #19875478;
+}
+
+.logo {
+    margin: 0 auto;
+}

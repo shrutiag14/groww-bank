@@ -1,0 +1,44 @@
+.tabcard {
+    background-color: mintcream;
+    box-shadow: 10px 10px 8px #19875478;
+    margin-top: 15px;
+    border-radius: 0px;
+}
+
+.btn {
+    padding: 2px;
+    width: 110px;
+    margin: 9px 7px 0 0;
+    float: right;
+}
+
+.loadingDiv {
+    display: flex;
+    margin-top: 30px;}
+
+.loading {
+    align-self: center;
+    justify-self: center;
+    margin: 100px auto;
+}
+
+
+.dropdown-item:hover {
+    background-color: "secondary";
+}
+
+.menu .dropdown-item:hover {
+    background-color: "secondary";
+}
+
+.heading {
+    padding: 15px 0;
+}
+
+.buttonBottom {
+    margin-bottom: 10px;
+}
+
+.typo {
+    color: mintcream;
+}

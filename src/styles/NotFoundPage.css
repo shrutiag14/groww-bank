@@ -1,0 +1,14 @@
+.notFoundCard {
+    background-color: mintcream;
+    box-shadow: 10px 10px 8px #19875478;
+    margin-top: 20px;
+    border-radius: 0px;
+}
+
+.logoImage{
+    margin: 20px 0;
+    height: 100rem;
+    max-height: 150px;
+    width: min-content;
+    max-width: 400px;
+}
